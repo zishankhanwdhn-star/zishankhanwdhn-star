@@ -40,7 +40,11 @@ I am always open to learning new concepts and expanding my technical knowledge.
 https://www.linkedin.com/in/zishan-khan-540a14292?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 
 ---
+<!-- Snake Game Repo View -->
 
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 ✨ Thank you for visiting my profile!
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
